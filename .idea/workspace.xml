@@ -4,7 +4,71 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbcd18e6-3b2b-428a-a7fe-761c4ef96e64" name="Changes" comment="" />
+    <list default="true" id="bbcd18e6-3b2b-428a-a7fe-761c4ef96e64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/AssetManifest.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/AssetManifest.bin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/ai.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/ai_app_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/behance.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/bloc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/dart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/dribble.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/firebase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/flutter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/icons/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/alarm.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/chat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/coffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/cui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/doctor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/img_ai_blue.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/img_ai_new.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/img_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/img_x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/img_youtube.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/recipe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/images/triange_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/privacypolicy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/assets/privacypolicy1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/chromium/canvaskit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/chromium/canvaskit.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/skwasm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/skwasm.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/canvaskit/skwasm.worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/flutter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/flutter_service_worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy&amp;policy/version.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
